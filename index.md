@@ -4,10 +4,10 @@ title: Chang-Zheng Liu
 description: 刘昌正的个人主页，聚焦晶圆微电路损伤检测、机器视觉与软件开发。
 ---
 
-<div align="center">
-  <h1>Chang-Zheng Liu</h1>
+<script>document.title = 'Chang-Zheng Liu';</script>
 
-  <p><strong>电子科学与技术 · 晶圆缺陷检测 · 软件开发</strong></p>
+<div align="center">
+  <h1>刘昌正</h1>
 
   <p>中共党员 · 江西萍乡 · 景德镇陶瓷大学</p>
 
@@ -59,12 +59,12 @@ description: 刘昌正的个人主页，聚焦晶圆微电路损伤检测、机�
 
 ## 科研成果
 
-### Research on edge fuzzy feature extraction method for Si3N4 bearing ball microdamage based on the multi-scale histogram of oriented gradient and dual cross attention <a href="https://www.sciencedirect.com/science/article/pii/S2352492825027448" target="_blank" rel="noopener noreferrer">查看论文</a>
+### Research on edge fuzzy feature extraction method for Si3N4 bearing ball microdamage based on the multi-scale histogram of oriented gradient and dual cross attention <a href="https://www.sciencedirect.com/science/article/pii/S2352492825027448" target="_blank" rel="noopener noreferrer" style="font-size: inherit;">查看论文</a>
 
 **期刊：** Materials Today Communications  
 **分区与影响因子：** 中科院材料科学 3 区 · IF 4.5
 
-### Accurate Detection Method of Si3N4 Wafer Fuzzy Defects Embedded with Hybrid Cross-Attention Mechanism and Feature Gradient Histogram <a href="https://link.springer.com/article/10.1007/s10921-025-01289-4" target="_blank" rel="noopener noreferrer">查看论文</a>
+### Accurate Detection Method of Si3N4 Wafer Fuzzy Defects Embedded with Hybrid Cross-Attention Mechanism and Feature Gradient Histogram <a href="https://link.springer.com/article/10.1007/s10921-025-01289-4" target="_blank" rel="noopener noreferrer" style="font-size: inherit;">查看论文</a>
 
 **期刊：** Journal of Nondestructive Evaluation  
 **分区与影响因子：** 中科院材料科学 3 区 · IF 3.0
