@@ -19,11 +19,11 @@ description: 刘昌正的个人主页，聚焦晶圆微电路损伤检测、机�
 
 ---
 
-## 关于我
+# 关于我
 
 具备代码编写与技术文本撰写经验，关注机器视觉、晶圆微电路损伤检测与智能检测平台开发。能够参与从需求梳理、模型训练验证到平台设计与交付的完整流程；做事有条理，具备较强的责任感、组织能力与团队协作意识。
 
-## 工作经历
+# 工作经历
 
 **机械装备数字化与智能检测技术团队** · 科创学术部 · 团队成员  
 2022 年 01 月至今
@@ -31,9 +31,9 @@ description: 刘昌正的个人主页，聚焦晶圆微电路损伤检测、机�
 - 参与学术论文撰写，协助学科竞赛部编写比赛项目计划书。
 - 完成团队安排的相关工作，协助解决科研过程中的各类问题。
 
-## 项目经历
+# 项目经历
 
-### 晶圆微电路损伤检测平台 · Wafer Inspection Platform
+## 晶圆微电路损伤检测平台 · Wafer Inspection Platform
 
 **算法研发、平台设计** · 2024 年 02 月至 2024 年 08 月
 
@@ -45,7 +45,7 @@ description: 刘昌正的个人主页，聚焦晶圆微电路损伤检测、机�
 
 <img src="assets/Wafer.png" alt="晶圆微电路损伤检测平台界面" style="display: block; width: 100%; height: auto;">
 
-### 纯净音乐 · Pure Music
+## 纯净音乐 · Pure Music
 
 **UI 设计、后端开发** · 2022 年 01 月至 2022 年 04 月
 
@@ -57,19 +57,19 @@ description: 刘昌正的个人主页，聚焦晶圆微电路损伤检测、机�
 
 <img src="assets/PureMusic.png" alt="纯净音乐应用界面" style="display: block; width: 100%; height: auto;">
 
-## 科研成果
+# 科研成果
 
-### Research on edge fuzzy feature extraction method for Si3N4 bearing ball microdamage based on the multi-scale histogram of oriented gradient and dual cross attention <a href="https://www.sciencedirect.com/science/article/pii/S2352492825027448" target="_blank" rel="noopener noreferrer" style="font-size: inherit;">查看论文</a>
+## Research on edge fuzzy feature extraction method for Si3N4 bearing ball microdamage based on the multi-scale histogram of oriented gradient and dual cross attention <a href="https://www.sciencedirect.com/science/article/pii/S2352492825027448" target="_blank" rel="noopener noreferrer" style="font-size: 0.75em;">查看论文</a>
 
 **期刊：** Materials Today Communications  
 **分区与影响因子：** 中科院材料科学 3 区 · IF 4.5
 
-### Accurate Detection Method of Si3N4 Wafer Fuzzy Defects Embedded with Hybrid Cross-Attention Mechanism and Feature Gradient Histogram <a href="https://link.springer.com/article/10.1007/s10921-025-01289-4" target="_blank" rel="noopener noreferrer" style="font-size: inherit;">查看论文</a>
+## Accurate Detection Method of Si3N4 Wafer Fuzzy Defects Embedded with Hybrid Cross-Attention Mechanism and Feature Gradient Histogram <a href="https://link.springer.com/article/10.1007/s10921-025-01289-4" target="_blank" rel="noopener noreferrer" style="font-size: 0.75em;">查看论文</a>
 
 **期刊：** Journal of Nondestructive Evaluation  
 **分区与影响因子：** 中科院材料科学 3 区 · IF 3.0
 
-## 荣誉与资质
+# 荣誉与资质
 
 <table style="width: 100%;">
   <thead>
@@ -87,6 +87,38 @@ description: 刘昌正的个人主页，聚焦晶圆微电路损伤检测、机�
     <tr><td>大学生创新创业训练计划项目</td><td>立项</td><td>国家级</td></tr>
   </tbody>
 </table>
+
+# 兴趣爱好
+
+## 游戏
+
+<img src="assets/Game.png" alt="游戏" style="display: block; width: 100%; height: auto;">
+
+## 动漫
+
+<img src="assets/Anime.jpg" alt="动漫" style="display: block; width: 100%; height: auto;">
+
+# 最近动态
+
+**2026 年 08 月 12 日 · 上海**
+
+<img src="assets/Photo/上海2026-8-12.jpg" alt="上海，2026 年 08 月 12 日" style="display: block; width: 100%; height: auto;">
+
+**2025 年 01 月 17 日 · 北京**
+
+<img src="assets/Photo/北京2025-1-17.jpg" alt="北京，2025 年 01 月 17 日" style="display: block; width: 100%; height: auto;">
+
+**2024 年 04 月 20 日 · 杭州**
+
+<img src="assets/Photo/杭州2024-4-20.jpg" alt="杭州，2024 年 04 月 20 日" style="display: block; width: 100%; height: auto;">
+
+**2023 年 11 月 18 日 · 武汉**
+
+<img src="assets/Photo/武汉2023-11-18.jpg" alt="武汉，2023 年 11 月 18 日" style="display: block; width: 100%; height: auto;">
+
+**2023 年 09 月 26 日 · 青岛**
+
+<img src="assets/Photo/青岛2023-9-26.jpg" alt="青岛，2023 年 09 月 26 日" style="display: block; width: 100%; height: auto;">
 
 ---
 
